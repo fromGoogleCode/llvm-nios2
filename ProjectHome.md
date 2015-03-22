@@ -1,0 +1,1 @@
+This project is intended to provide a code generator for the software processor Nios 2 from Altera. Based on LLVM, we started to check-in the LLVM baseline and develop a new Back-End aiming the chosen processor.
